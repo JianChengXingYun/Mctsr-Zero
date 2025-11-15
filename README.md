@@ -39,7 +39,7 @@ python LLMExplorer_Socrates_re_Meta.py
 
 ## 📄 Paper
 
-🎉 **Accepted to AAAI 2026!**
+🎉 **Accepted by AAAI 2026!**
 
 - **arXiv**: [https://arxiv.org/abs/2505.23229](https://arxiv.org/abs/2505.23229)
 
