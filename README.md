@@ -6,6 +6,8 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2505.23229-b31b1b?style=flat-square )](https://arxiv.org/abs/2505.23229 )
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-FFD21E?style=flat-square )](https://huggingface.co/JianChengXingYun/PsyLLMV3-Mini-250519 )
 
+<img width="1623" height="757" alt="企业微信截图_20251116142923" src="https://github.com/user-attachments/assets/2b7c4472-de73-44c0-a98e-4dcf52406393" />
+
 </div>
 
 **MCTSr-Zero** is a Monte Carlo Tree Search (MCTS) framework that generates high-quality, principle-aligned conversational data for Large Language Models. By optimizing for **domain alignment** rather than objective correctness, it excels at producing natural, contextually appropriate interactions in human-centric dialogues.
