@@ -12,6 +12,12 @@
 
 **MCTSr-Zero** is a Monte Carlo Tree Search (MCTS) framework that generates high-quality, principle-aligned conversational data for Large Language Models. By optimizing for **domain alignment** rather than objective correctness, it excels at producing natural, contextually appropriate interactions in human-centric dialogues.
 
+
+<div align="center">
+
+<img width="1092" height="598" alt="企业微信截图_20251116142724" src="https://github.com/user-attachments/assets/c8f5a88e-048c-4c95-9fc2-6610b8d1ab1e" />
+
+</div>
 ---
 
 ## 🚀 Quick Start
